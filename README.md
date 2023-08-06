@@ -8,7 +8,7 @@ passou pelos dois exemplos. Chegando em casa eu apenas tornei a função um cód
 
 <h3>Link do Código no LeetCode: </h3>
 <blockquote><h5>Link do Código no LeetCode</h4>
-<a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/">LeetCode 1763</a></blockquote> 
+<a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/">LeetCode 1700</a></blockquote> 
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
